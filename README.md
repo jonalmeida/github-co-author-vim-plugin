@@ -4,7 +4,7 @@
 ## Installation
 Using [vim-plug](https://github.com/junegunn/vim-plug)
 ``` vimscript
-Plug 'jehuipark/github-co-author-vim-plugin'
+Plug 'jonalmeida/github-co-author-vim-plugin'
 ```
 
 ## Use Guide
